@@ -16,7 +16,7 @@ SECRET_KEY = '@^8*fl1i5$9)y$uo0v=rwk!nsu2_280*yb+ybz@ge8mgw4fw8^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['crypticsci.herokuapp.com']
+ALLOWED_HOSTS = ['facebook-page-crypticsci.herokuapp.com']
 
 
 # Application definition
